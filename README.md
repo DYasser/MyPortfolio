@@ -15,4 +15,4 @@ Welcome to my portfolio website, a showcase of my skills, projects, and experien
 
 ## Getting Started
 
-To view the portfolio, you can [visit the website here](https://dyasser.github.io/MyPortfolio/projects)
+To view the portfolio, you can [visit the website here](https://dyasser.github.io/MyPortfolio/projects).
